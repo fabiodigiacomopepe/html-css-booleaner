@@ -1,0 +1,46 @@
+/* regole generali pagina */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* regole logo */
+.logo-container {
+    background-color: #4da1ff;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+.logo {
+    width: 20%;
+    margin: 30px 0 0 15px;
+}
+
+/* regole titolo */
+.title-photo {
+    padding: 5px;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+header h4, h6 {
+    color: #878787;
+}
+
+h4 span {
+    color: #1eace6;
+}
+
+header h6 {
+    margin-bottom: 20px;
+}
+
+/* regole info foto */
+.photo-info {
+    font-size: 12px;
+    font-weight: bold;
+}
