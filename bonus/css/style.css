@@ -1,0 +1,110 @@
+/* regole generali pagina */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* regole logo */
+.logo-container {
+    background-color: #4da1ff;
+    background-image: url(../img/pattern.png);
+    background-size: contain;
+}
+
+.logo {
+    width: 20%;
+    margin: 30px 0 0 15px;
+}
+
+/* regole titolo */
+.title-photo {
+    padding: 5px;
+}
+
+header h1 {
+    font-size: 50px;
+}
+
+header h4, h6 {
+    color: #878787;
+}
+
+h4 span {
+    color: #1eace6;
+}
+
+header h6 {
+    margin-bottom: 20px;
+}
+
+/* regole info foto */
+.photo-info {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* regole sezione centrale */
+main {
+    padding: 5px;
+}
+
+/* regole paragrafi centrali */
+section p {
+    font-weight: 550;
+}
+
+p span {
+    background-color: yellow;
+}
+
+section ul {
+    margin: 35px 15px;
+    font-weight: bold;
+}
+
+/* regole tabella */
+tr th {
+    background-color: #1aabe6;
+    color: white;
+}
+
+.background-colored td {
+    background-color: #b2e6f2;
+}
+
+td {
+    font-weight: bold;
+}
+
+/* regole ultimo paragrafo */
+.last-paragraph {
+    margin: 30px 0;
+}
+
+/* regole footer */
+footer {
+    padding: 5px;
+}
+
+.see-also {
+    color: #818181;
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.photo-footer {
+    position: relative;
+}
+
+.text-over-photo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
