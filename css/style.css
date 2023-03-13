@@ -82,3 +82,29 @@ td {
 .last-paragraph {
     margin: 30px 0;
 }
+
+/* regole footer */
+footer {
+    padding: 5px;
+}
+
+.see-also {
+    color: #818181;
+    margin: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.photo-footer {
+    position: relative;
+}
+
+.text-over-photo {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
