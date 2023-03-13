@@ -63,3 +63,17 @@ section ul {
     margin: 35px 0;
     font-weight: bold;
 }
+
+/* regole tabella */
+tr th {
+    background-color: #1aabe6;
+    color: white;
+}
+
+.background-colored td {
+    background-color: #b2e6f2;
+}
+
+td {
+    font-weight: bold;
+}
