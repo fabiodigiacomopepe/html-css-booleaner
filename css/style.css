@@ -44,3 +44,22 @@ header h6 {
     font-size: 12px;
     font-weight: bold;
 }
+
+/* regole sezione centrale */
+main {
+    padding: 5px;
+}
+
+/* regole paragrafi centrali */
+section p {
+    font-weight: 550;
+}
+
+p span {
+    background-color: yellow;
+}
+
+section ul {
+    margin: 35px 0;
+    font-weight: bold;
+}
