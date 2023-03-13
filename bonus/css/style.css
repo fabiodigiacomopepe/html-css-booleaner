@@ -6,6 +6,35 @@
 }
 
 
+
+
+
+
+
+
+
+
+/* regole per bonus */
+.title-photo, main, footer {
+    width: 85%;
+    margin: auto;
+}
+
+.title-photo img {
+    width: 45%;
+    height: 300px;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
 /* regole logo */
 .logo-container {
     background-color: #4da1ff;
