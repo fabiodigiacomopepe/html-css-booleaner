@@ -77,3 +77,8 @@ tr th {
 td {
     font-weight: bold;
 }
+
+/* regole ultimo paragrafo */
+.last-paragraph {
+    margin: 30px 0;
+}
