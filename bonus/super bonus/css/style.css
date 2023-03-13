@@ -27,6 +27,35 @@
 }
 
 
+/* css sostitutivo a tabella */
+.ex-tabella {
+    font-weight: bold;
+}
+
+.colonna1, .colonna2, .colonna3 {
+    display: inline-block;
+}
+
+.riga1 {
+    background-color: #1aabe6;
+    color: white;
+}
+
+.riga2, .riga4 {
+    background-color: #b2e6f2;
+}
+
+.colonna1 {
+    width: 20%;
+}
+
+.colonna2 {
+    width: 20%;
+}
+
+.colonna3 {
+    width: 58%;
+}
 
 
 
@@ -90,20 +119,6 @@ p span {
 
 section ul {
     margin: 35px 15px;
-    font-weight: bold;
-}
-
-/* regole tabella */
-tr th {
-    background-color: #1aabe6;
-    color: white;
-}
-
-.background-colored td {
-    background-color: #b2e6f2;
-}
-
-td {
     font-weight: bold;
 }
 
