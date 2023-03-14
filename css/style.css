@@ -65,9 +65,15 @@ section ul {
 }
 
 /* regole tabella */
+table {
+    border-spacing: 0;
+}
+
 tr th {
     background-color: #1aabe6;
     color: white;
+    width: 380px;
+    text-align: left;
 }
 
 .background-colored td {
